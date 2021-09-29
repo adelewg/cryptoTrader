@@ -1,0 +1,178 @@
+Entering orders into the system
+2020/03/17 17:02:00.124758
+We have submitted the following Bid into the matching engine: 
+Product: BTC/USDT Amount: 0.08  Price: 5352  Time: 2020/03/17 17:01:24.884492  Username: botuser
+ ------------------------------------
+BTC : 10.000000
+DODGE : 100.000000
+ETH : 100.000000
+USDT : 1000.000000
+
+We have submitted the following Bid into the matching engine: 
+Product: ETH/BTC Amount: 9.80492  Price: 0.0218909  Time: 2020/03/17 17:01:24.884492  Username: botuser
+ ------------------------------------
+BTC : 10.000000
+DODGE : 100.000000
+ETH : 100.000000
+USDT : 1000.000000
+
+Ask Sale has gone through: 
+Product: BTC/USDT Amount: 0.08  Price: 5352  Time: 2020/03/17 17:01:24.884492  Username: dataset
+ ------------------------------------
+Ask Sale has gone through: 
+Product: ETH/BTC Amount: 9.80492  Price: 0.0218909  Time: 2020/03/17 17:01:24.884492  Username: dataset
+ ------------------------------------
+We have submitted the following Bid into the matching engine: 
+Product: BTC/USDT Amount: 0.228904  Price: 5360.95  Time: 2020/03/17 17:01:30.099017  Username: botuser
+ ------------------------------------
+BTC : 10.134639
+DODGE : 100.000000
+ETH : 90.195078
+USDT : 1428.160000
+
+We have submitted the following Bid into the matching engine: 
+Product: ETH/BTC Amount: 9.80492  Price: 0.0218909  Time: 2020/03/17 17:01:30.099017  Username: botuser
+ ------------------------------------
+BTC : 10.134639
+DODGE : 100.000000
+ETH : 90.195078
+USDT : 1428.160000
+
+We have submitted the following Bid into the matching engine: 
+Product: ETH/USDT Amount: 3.50249  Price: 117.329  Time: 2020/03/17 17:01:30.099017  Username: botuser
+ ------------------------------------
+BTC : 10.134639
+DODGE : 100.000000
+ETH : 90.195078
+USDT : 1428.160000
+
+Ask Sale has gone through: 
+Product: BTC/USDT Amount: 0.228904  Price: 5360.95  Time: 2020/03/17 17:01:30.099017  Username: dataset
+ ------------------------------------
+Ask Sale has gone through: 
+Product: ETH/BTC Amount: 9.80492  Price: 0.0218909  Time: 2020/03/17 17:01:30.099017  Username: dataset
+ ------------------------------------
+Ask Sale has gone through: 
+Product: ETH/USDT Amount: 3.50249  Price: 117.329  Time: 2020/03/17 17:01:30.099017  Username: dataset
+ ------------------------------------
+We have submitted the following Bid into the matching engine: 
+Product: BTC/USDT Amount: 0.228904  Price: 5360.03  Time: 2020/03/17 17:01:35.103526  Username: botuser
+ ------------------------------------
+BTC : 10.120374
+DODGE : 100.000000
+ETH : 76.887662
+USDT : 3066.246246
+
+We have submitted the following Bid into the matching engine: 
+Product: ETH/BTC Amount: 9.80492  Price: 0.0218909  Time: 2020/03/17 17:01:35.103526  Username: botuser
+ ------------------------------------
+BTC : 10.120374
+DODGE : 100.000000
+ETH : 76.887662
+USDT : 3066.246246
+
+Ask Sale has gone through: 
+Product: BTC/USDT Amount: 0.228904  Price: 5360.03  Time: 2020/03/17 17:01:35.103526  Username: dataset
+ ------------------------------------
+Ask Sale has gone through: 
+Product: ETH/BTC Amount: 9.80492  Price: 0.0218909  Time: 2020/03/17 17:01:35.103526  Username: dataset
+ ------------------------------------
+We have submitted the following Bid into the matching engine: 
+Product: BTC/USDT Amount: 0.00838081  Price: 5360.14  Time: 2020/03/17 17:01:40.107326  Username: botuser
+ ------------------------------------
+BTC : 10.106109
+DODGE : 100.000000
+ETH : 67.082740
+USDT : 4293.176813
+
+We have submitted the following Bid into the matching engine: 
+Product: ETH/BTC Amount: 9.80492  Price: 0.0218909  Time: 2020/03/17 17:01:40.107326  Username: botuser
+ ------------------------------------
+BTC : 10.106109
+DODGE : 100.000000
+ETH : 67.082740
+USDT : 4293.176813
+
+Ask Sale has gone through: 
+Product: BTC/USDT Amount: 0.00838081  Price: 5360.14  Time: 2020/03/17 17:01:40.107326  Username: dataset
+ ------------------------------------
+Ask Sale has gone through: 
+Product: ETH/BTC Amount: 9.80492  Price: 0.0218909  Time: 2020/03/17 17:01:40.107326  Username: dataset
+ ------------------------------------
+We have submitted the following Bid into the matching engine: 
+Product: BTC/USDT Amount: 0.0536184  Price: 5366.74  Time: 2020/03/17 17:01:45.111661  Username: botuser
+ ------------------------------------
+BTC : 10.312367
+DODGE : 100.000000
+ETH : 57.277818
+USDT : 4338.099155
+
+We have submitted the following Bid into the matching engine: 
+Product: ETH/BTC Amount: 9.80492  Price: 0.0219  Time: 2020/03/17 17:01:45.111661  Username: botuser
+ ------------------------------------
+BTC : 10.312367
+DODGE : 100.000000
+ETH : 57.277818
+USDT : 4338.099155
+
+Ask Sale has gone through: 
+Product: BTC/USDT Amount: 0.0536184  Price: 5366.74  Time: 2020/03/17 17:01:45.111661  Username: dataset
+ ------------------------------------
+Ask Sale has gone through: 
+Product: ETH/BTC Amount: 9.80492  Price: 0.0219  Time: 2020/03/17 17:01:45.111661  Username: dataset
+ ------------------------------------
+We have submitted the following Bid into the matching engine: 
+Product: BTC/USDT Amount: 0.0554766  Price: 5368.13  Time: 2020/03/17 17:01:50.116610  Username: botuser
+ ------------------------------------
+BTC : 10.473477
+DODGE : 100.000000
+ETH : 47.472896
+USDT : 4625.855095
+
+We have submitted the following Bid into the matching engine: 
+Product: ETH/BTC Amount: 9.80492  Price: 0.0219  Time: 2020/03/17 17:01:50.116610  Username: botuser
+ ------------------------------------
+BTC : 10.473477
+DODGE : 100.000000
+ETH : 47.472896
+USDT : 4625.855095
+
+We have submitted the following Bid into the matching engine: 
+Product: ETH/USDT Amount: 3.46743  Price: 117.489  Time: 2020/03/17 17:01:50.116610  Username: botuser
+ ------------------------------------
+BTC : 10.473477
+DODGE : 100.000000
+ETH : 47.472896
+USDT : 4625.855095
+
+Ask Sale has gone through: 
+Product: BTC/USDT Amount: 0.0554766  Price: 5368.13  Time: 2020/03/17 17:01:50.116610  Username: dataset
+ ------------------------------------
+Ask Sale has gone through: 
+Product: ETH/BTC Amount: 9.80492  Price: 0.0219  Time: 2020/03/17 17:01:50.116610  Username: dataset
+ ------------------------------------
+Ask Sale has gone through: 
+Product: ETH/USDT Amount: 3.46743  Price: 117.489  Time: 2020/03/17 17:01:50.116610  Username: dataset
+ ------------------------------------
+We have submitted the following Bid into the matching engine: 
+Product: BTC/USDT Amount: 0.0578819  Price: 5363.7  Time: 2020/03/17 17:01:55.120438  Username: botuser
+ ------------------------------------
+BTC : 10.632727
+DODGE : 100.000000
+ETH : 34.200540
+USDT : 5331.044980
+
+We have submitted the following Bid into the matching engine: 
+Product: ETH/BTC Amount: 9.80492  Price: 0.0219  Time: 2020/03/17 17:01:55.120438  Username: botuser
+ ------------------------------------
+BTC : 10.632727
+DODGE : 100.000000
+ETH : 34.200540
+USDT : 5331.044980
+
+Ask Sale has gone through: 
+Product: BTC/USDT Amount: 0.0578819  Price: 5363.7  Time: 2020/03/17 17:01:55.120438  Username: dataset
+ ------------------------------------
+Ask Sale has gone through: 
+Product: ETH/BTC Amount: 9.80492  Price: 0.0219  Time: 2020/03/17 17:01:55.120438  Username: dataset
+ ------------------------------------
